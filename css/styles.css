@@ -9,11 +9,11 @@ body {
   display: flex;
   justify-content: flex-start;
   align-items: baseline;
-  border: 1px solid tomato;
+  border: 1px solid teal;
   text-align: start;
   margin: 1em auto;
   color: white;
-  background-color: tomato;
+  background-color: teal;
   -webkit-box-shadow: 0px 10px 13px -7px #000000,
     5px 5px 15px 5px rgba(0, 0, 0, 0);
   box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
