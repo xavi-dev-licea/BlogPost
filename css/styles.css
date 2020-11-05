@@ -9,10 +9,11 @@ body {
   border: 0.5px solid gray;
   padding: 1em;
   margin: 2em auto;
-  text-align: center;
+  text-align: start;
 }
 
 .title {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: x-large;
+  text-align: center;
 }
