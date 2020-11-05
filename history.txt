@@ -7,3 +7,5 @@ I'm 23 years old and i like Kotlin.
 Actually i have to learn C# for web services with .NET Core.
 
 My life.
+
+I studied an engineering.
