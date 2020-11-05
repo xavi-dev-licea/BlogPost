@@ -1,8 +1,18 @@
 body {
-  text-align: center;
-  background-color: tomato;
-  font-size: 18px;
-  font-weight: bolder;
-  color: white;
+  padding: 0;
+  margin: 0;
   font-family: "Courier New", Courier, monospace;
+}
+
+.container {
+  width: 50%;
+  border: 0.5px solid gray;
+  padding: 1em;
+  margin: 2em auto;
+  text-align: center;
+}
+
+.title {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: x-large;
 }
