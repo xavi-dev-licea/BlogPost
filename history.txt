@@ -4,4 +4,4 @@ I'm a developer at ALtatec de Occidente.
 
 I'm 23 years old and i like Kotlin.
 
-Actually i have to learn C# for web services with .NET Core
+Actually i have to learn C# for web services with .NET Core.
