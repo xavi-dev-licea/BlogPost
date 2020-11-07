@@ -4,4 +4,6 @@ I'm a developer at ALtatec de Occidente.
 
 I'm 23 years old and i like Kotlin.
 
+Agregado desde el master
+
 My favorite tv show is GOT.
