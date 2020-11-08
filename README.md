@@ -17,5 +17,6 @@
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
 - Agregado para pruebas del curso
 - Trabajando desde Ubuntu 20.04
+- Desde hace unos meses
 
 [TOCM]
