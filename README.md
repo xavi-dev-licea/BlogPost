@@ -15,5 +15,6 @@
 - Support identification, interpretation, fliter of the HTML tags;
 - Support TeX (LaTeX expressions, Based on KaTeX), Flowchart and Sequence Diagram of Markdown extended syntax;
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
+- Agregado para pruebas del curso
 
 [TOCM]
