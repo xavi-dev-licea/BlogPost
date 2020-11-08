@@ -16,10 +16,7 @@
 - Support TeX (LaTeX expressions, Based on KaTeX), Flowchart and Sequence Diagram of Markdown extended syntax;
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
 - Agregado para pruebas del curso
-<<<<<<< HEAD
-=======
 - Trabajando desde Ubuntu 20.04
 - Desde hace unos meses
->>>>>>> readme
 
 [TOCM]
